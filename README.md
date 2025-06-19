@@ -1,13 +1,12 @@
-# 👋 Hello, I'm Anrex019
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=440&height=45&lines=Hey!+I'm+Anrex019;Front-End+%2F+Mobile+Developer;React+%7C+React+Native+%7C+TypeScript+%7C+Tailwind" alt="Typing SVG" />
 
-🚀 Passionate Front-End & Mobile Developer with a love for building modern, responsive, and user-centric applications.  
-💡 Constantly learning and exploring new technologies to deliver the best user experience across web and mobile.
+![Profile Views](https://komarev.com/ghpvc/?username=anrex019&color=blue&style=flat-square)
 
 ---
 
-## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
+## 🌐 Socials  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1QauKHcUze/?mibextid=wwXIfr)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anr.ex?igsh=MWpsdjVqdDQyYjczYg%3D%3D&utm_source=qr)
 
 ---
 
@@ -17,6 +16,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=anrex019&show_icons=true&theme=radical" alt="Anrex019's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anrex019&layout=compact&theme=radical" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anrex019&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anrex019&theme=radical&no-bg=true&no-frame=true" />
 </p>
 
 ---
@@ -45,11 +51,19 @@
 
 ---
 
-## 🧭 Currently Exploring:
-•⁠  ⁠AI-integrated apps for mobile 📱
-•⁠  ⁠Full-stack development with Next.js and Firebase
-•⁠  ⁠UI/UX design practices to improve mobile usability
+## 👨‍💻 About Me:
+•⁠  ⁠🔭 Currently building mobile apps with React Native  
+•⁠  ⁠🌱 Learning backend technologies to become a Full-Stack Dev  
+•⁠  ⁠🧩 Love solving real-world problems through code  
+•⁠  ⁠🎯 2025 Goal: Work in the international tech industry  
+•⁠  ⁠🧠 Exploring AI-integrated mobile experiences  
 
 ---
 
-“Code is like humor. When you have to explain it, it’s bad.” – Cory House
+## 📫 Contact Me
+•⁠  ⁠📩 DM me on [Instagram](https://www.instagram.com/anr.ex?igsh=MWpsdjVqdDQyYjczYg%3D%3D&utm_source=qr) or [Facebook](https://www.facebook.com/share/1QauKHcUze/?mibextid=wwXIfr)  
+•⁠  ⁠🤝 Let's connect and build something awesome together!
+
+---
+
+	⁠“Code is like humor. When you have to explain it, it’s bad.” – Cory House
