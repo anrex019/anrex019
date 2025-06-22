@@ -15,7 +15,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anrex019&show_icons=true&theme=radical" alt="Anrex019's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anrex019&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anrex019&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
